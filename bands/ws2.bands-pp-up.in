@@ -1,0 +1,6 @@
+&BANDS 
+  prefix='test_PBE',
+  outdir='./tmp',
+  filband = 'bands-up.dat'
+  spin_component = 1,
+/

@@ -1,0 +1,10 @@
+&PROJWFC
+     prefix='test_PBE',
+     outdir='./tmp',
+     filpdos = 'pdos.dat',
+     DeltaE=0.1,
+     ngauss=1,
+     degauss=0.02
+     !emin= -10,
+     !emax= 35
+ /

@@ -1,0 +1,8 @@
+&DOS
+     prefix='test_PBE',
+     outdir='./tmp',
+     fildos = 'dos.dat',
+     DeltaE=0.1,
+     !emin= -10,
+     !emax= 35
+ /
