@@ -6,7 +6,7 @@ Scripts and inputs for calculating the band structure and pDOS in Quantum Espres
 - [Band Structure and PDOS calculation in Quantum Espresso](#band)
   - [Example](#example)
   - [Usage](#usage)  
-- [Cite](#cite)
+- [Acknowledgments](#ackw)
 ## Band Structure and PDOS calculation in Quantum Espresso
 <a name="band"></a>
 
@@ -21,17 +21,8 @@ A simple figure with bands and pDOS plots together
 
 TODO
 
-## Cite
-<a name="cite"></a>
+## Acknowledgments
+<a name="ackw"></a>
 
-If you use this code or find it helpful in your research, please consider citing the project:
-
-```bash
-@misc{YourProjectName,
-author = {Your Name},
-title = {De-noise Electron Density with U-Net},
-year = {Year},
-howpublished = {\url{GitHub repository URL}},
-note = {Online; accessed Date}
-}
-```
+This project utilizes and modifies a script from **Levi Lentz's Blog** titled *[Combined Band Diagram and pDOS](https://levilentz.com/2020/02/25/combined-band-diagram-and-pdos/)*.  
+I extend my gratitude to Levi Lentz for sharing this insightful resource, which formed the foundation of my work.
