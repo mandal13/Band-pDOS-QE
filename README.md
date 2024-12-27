@@ -24,5 +24,5 @@ TODO
 ## Acknowledgments
 <a name="ackw"></a>
 
-This project utilizes and modifies a script from **Levi Lentz's Blog** titled *[Combined Band Diagram and pDOS](https://levilentz.com/2020/02/25/combined-band-diagram-and-pdos/)*.  
-I extend my gratitude to Levi Lentz for sharing this insightful resource, which formed the foundation of my work.
+This project utilizes and modifies a script from **Levi Lentz's Blog** titled *[Combined Band Diagram and pDOS](https://blog.levilentz.com/combined-band-diagram-and-pdos/)*.  
+I am grateful to Levi Lentz for sharing this insightful resource, which formed the foundation of my work.
