@@ -4,8 +4,7 @@ Scripts and inputs for calculating the band structure and pDOS in Quantum Espres
 ## Table of Contents
 
 - [Band Structure and PDOS calculation in Quantum Espresso](#band)
-  - [Example](#example)
-  - [Usage](#usage)  
+  - [Example](#example) 
 - [Acknowledgments](#ackw)
 ## Band Structure and PDOS calculation in Quantum Espresso
 <a name="band"></a>
@@ -15,11 +14,6 @@ A simple figure with bands and pDOS plots together
 <a name="example"></a>
 
 ![Example of bands and pDOS plot](plot-dos-bands/bands_pdos.png)
-
-### Usage
-<a name="usage"></a>
-
-TODO
 
 ## Acknowledgments
 <a name="ackw"></a>
